@@ -1,0 +1,13 @@
+Model Information
+=================
+
+- Model Name: Customer Segmentation Model
+- Algorithm: K-Means Clustering
+- Features Used: age, city, purchase_history
+- Performance Metrics: Silhouette Score = 0.72
+- Training Date: 2023-10-01
+
+File Structure:
+- model.pkl: The trained model
+- scaler.pkl: Feature scaler used during training
+- model_config.json: Model hyperparameters

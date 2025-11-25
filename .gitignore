@@ -1,0 +1,56 @@
+```
+# Data files
+*.csv
+*.json
+
+# Jupyter notebooks
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.ENV
+.pip
+.pip-tools
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.mypy_cache/
+.tox/
+.hypothesis/
+.eggs/
+*.egg-info/
+dist/
+build/
+*.so
+*.dylib
+*.dll
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+```
