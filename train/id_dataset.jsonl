@@ -1,1 +1,1 @@
-
+{"question":"Hitung nilai dari: 1×100 + 3×99 + 5×98 + ... + 199×1.","options":{"A":"338350","B":"340000","C":"335000","D":"339900"},"reasoning":"Deret ini identik dengan jumlah kuadrat 1²+2²+...+100². Rumus jumlah kuadrat n(n+1)(2n+1)/6 untuk n=100 menghasilkan 338350.","answer":"A","output":"Jawaban yang benar adalah A, karena deret tersebut sama dengan 1²+2²+...+100² = 338350.\n$$\n\\boxed{A. 338350}\n$$"}\n
